@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Aman Kumar</h1>
+<h1 align="center">Hey 👋, I'm Aman Rajput</h1>
 <h3 align="center">300+ Leetcode Questions Accepted and counting. Grasping more about Python, DSA,ML,DL,NLP and Databases. Willing to work with an organization where I can add value to my life and to the organization growth.</h3>
 
 - 🌱 I’m currently learning and Working on **Generative AI and DSA.**
