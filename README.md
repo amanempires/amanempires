@@ -1,101 +1,115 @@
-<h1 align="center">Hey 👋, I'm Aman Rajput</h1>
+<h1 align="center">Hi 👋, I'm Aman Rajput</h1>
 
 <h3 align="center">
-Software Development Engineer | Backend & Distributed Systems | Python • Java • Cloud • Microservices
+Backend Software Engineer | Distributed Systems | Python • Java • Cloud Native
 </h3>
 
 <p align="center">
-Backend-focused Software Engineer building scalable, production-grade systems and high-performance APIs.
-I specialize in designing microservices, integrating third-party platforms, optimizing backend performance,
-and deploying cloud-native applications using modern DevOps practices.
+I build scalable backend platforms, high-performance APIs, and production-grade microservices.
+Focused on reliability, performance optimization, and system design for real-world enterprise systems.
 </p>
 
 ---
 
-## 🚀 About Me
+## 🚀 Engineering Profile
 
-- 💼 Currently working as a **Software Development Engineer at Innovaccer**
-- ⚙️ Building **scalable backend systems, internal enterprise platforms, and third-party integrations**
-- 🔄 Experienced in **asynchronous processing, distributed workflows, and API integrations**
-- ☁️ Working with **Kubernetes, Docker, CI/CD pipelines, AWS & Azure**
-- 📈 Improved production system performance by **35–40%** through optimization and async architecture
-- 🧠 Strong foundation in **Data Structures, System Design, and scalable architecture**
-- 🧩 Passionate about solving real-world engineering problems and building reliable systems
+- 💼 **Software Development Engineer @ Innovaccer**
+- ⚙️ Designing backend systems powering enterprise healthcare workflows
+- 🔗 Building secure third-party integrations & asynchronous processing systems
+- ☁️ Deploying cloud-native services using Kubernetes & CI/CD
+- 📈 Improved production performance by **35–40%**
+- 🧠 Strong foundation in **System Design, DSA & scalable architectures**
 
 ---
 
-## 🏢 Professional Experience Highlights
+## 🏗 What I Work On
 
-### 🔹 Innovaccer — Software Development Engineer
-- Designed backend services for internal workflows and healthcare integrations using **OAuth 2.0**
-- Built async polling workflows integrating external APIs with improved reliability
-- Reduced incident resolution time by **40%** using **Prometheus + ELK observability**
-- Deployed containerized microservices on **Kubernetes** with automated CI/CD
+✔ Backend Architecture & Microservices  
+✔ Distributed API integrations  
+✔ High-volume transactional systems  
+✔ Performance optimization & observability  
+✔ Cloud deployments & automation  
 
-### 🔹 Zopper — Software Engineer
-- Developed backend systems processing **5K+ daily transactions**
-- Built **Java Spring Boot microservices** following service-oriented architecture
-- Integrated banking & payment APIs reducing manual operations by **50%**
-- Improved API response performance by **40%**
+---
 
-### 🔹 Warals Technology — Associate Software Engineer
-- Automated operational workflows using Python backend systems
-- Implemented CI/CD pipelines using Jenkins & Docker
-- Optimized SQL queries improving reporting performance by **30%**
+## 💼 Production Experience
+
+### 🔹 Enterprise Healthcare Platform — Innovaccer
+- Designed async polling workflows integrating external APIs using OAuth 2.0
+- Built resilient backend services handling real production workloads
+- Implemented monitoring using **Prometheus + ELK**
+- Reduced incident resolution time by **40%**
+- Containerized services deployed via Kubernetes
+
+### 🔹 Digital Insurance Platform — Zopper
+- Developed Java Spring Boot microservices processing **5K+ daily transactions**
+- Integrated banking & payment systems nationwide
+- Reduced manual workflows by **50%**
+- Improved API latency by **40%**
+
+### 🔹 Automation Systems — Warals Technology
+- Built Python automation services improving response time by **60%**
+- Implemented CI/CD pipelines with Jenkins & Docker
+- Optimized database queries improving analytics performance by **30%**
 
 ---
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
+**Languages**  
 Python • Java • JavaScript • C
 
-### ⚙️ Backend & Architecture
-FastAPI • Django • Spring Boot • REST APIs • SOAP APIs  
-Microservices • Event-Driven Systems • AsyncIO • Celery • Redis
+**Backend**  
+FastAPI • Django • Spring Boot • REST APIs • Microservices
 
-### 🗄 Databases
-PostgreSQL • MySQL • MongoDB
+**Architecture**  
+Event-Driven Systems • Async Processing • API Integration
 
-### ☁️ Cloud & DevOps
-Docker • Kubernetes • CI/CD • AWS • Microsoft Azure • Linux
+**Databases**  
+PostgreSQL • MySQL • MongoDB • Redis
 
-### 🔐 Integrations & Observability
-OAuth 2.0 • Payment Gateway Integration • Third-Party APIs  
+**Cloud & DevOps**  
+Docker • Kubernetes • AWS • Azure • CI/CD
+
+**Observability**  
 Prometheus • Grafana • ELK Stack
 
-### 🛠 Tools
-Git • GitHub • Postman • Agile/Scrum
+---
+
+## 📊 Engineering Strengths
+
+- Scalable API design
+- Performance tuning & optimization
+- Distributed workflow handling
+- Production debugging & reliability engineering
+- Clean architecture & maintainable systems
 
 ---
 
-## 📌 Featured Projects
+## 📈 GitHub Stats
 
-### 💳 Insurance Automation Platform
-- Built scalable APIs using **Django REST + FastAPI**
-- Increased throughput and reduced latency by **30%**
-- Automated policy issuance workflows reducing manual effort by **85%**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanempires&show_icons=true&hide_border=true" />
+</p>
 
-### 💰 Paytm Payment Gateway Integration
-- Secure payment integration with checksum validation & encryption
-- Implemented webhook-based real-time transaction updates
-- Added retry & error-handling mechanisms for reliability
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanempires&layout=compact&hide_border=true" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Distributed system design patterns
-- Cloud-native scalability
-- AI-assisted development workflows
+## 🌱 Currently Exploring
+
+- Distributed system design
+- Google Cloud ecosystem
+- AI-assisted backend engineering
+- Large-scale system architecture
 
 ---
 
 ## 🤝 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/aman_empires" target="_blank">LinkedIn</a> •
-  <a href="https://github.com/amanempires" target="_blank">GitHub</a> •
-  <a href="https://leetcode.com/u/aman_empires/" target="_blank">LeetCode</a>
-</p>
-
-📫 **Email:** aman2002cse@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/aman_empires  
+💻 GitHub: https://github.com/amanempires  
+🧠 LeetCode: https://leetcode.com/u/aman_empires/  
+📫 Email: aman2002cse@gmail.com
